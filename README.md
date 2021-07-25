@@ -7,3 +7,5 @@
 ![Screenshot_2021-07-25-09-17-34-626_com example muhammadalfiannovanto_311710549_uas](https://user-images.githubusercontent.com/38580959/126885690-c0ec4f8a-77fc-4a68-aa93-b0d705050836.jpg)
 ![Screenshot_2021-07-25-09-17-53-557_com example muhammadalfiannovanto_311710549_uas](https://user-images.githubusercontent.com/38580959/126885691-d9f33465-5799-4ab5-92f0-3443d2afa88d.jpg)
 ![Screenshot_2021-07-25-09-18-37-891_com example muhammadalfiannovanto_311710549_uas](https://user-images.githubusercontent.com/38580959/126885692-3d8f3658-0ccc-4296-95cb-2af8334d9a23.jpg)
+![Database barang](https://user-images.githubusercontent.com/38580959/126886135-c6dbd2bc-5815-457d-8fac-1bc2804490e0.JPG)
+![database daftar login](https://user-images.githubusercontent.com/38580959/126886136-6036b185-51a8-4b8f-88b5-1750dea15e83.JPG)
